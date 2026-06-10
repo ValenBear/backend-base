@@ -1,0 +1,15 @@
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/bin/Debug/net8.0/Application.deps.json
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/bin/Debug/net8.0/Application.dll
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/bin/Debug/net8.0/Application.pdb
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/bin/Debug/net8.0/Domain.dll
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/bin/Debug/net8.0/Domain.pdb
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/obj/Debug/net8.0/Application.dll
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/obj/Debug/net8.0/refint/Application.dll
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/obj/Debug/net8.0/Application.pdb
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Application/obj/Debug/net8.0/ref/Application.dll

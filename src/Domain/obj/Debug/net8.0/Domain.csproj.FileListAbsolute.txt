@@ -1,0 +1,11 @@
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Domain/bin/Debug/net8.0/Domain.dll
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Domain/bin/Debug/net8.0/Domain.pdb
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Domain/obj/Debug/net8.0/Domain.dll
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Domain/obj/Debug/net8.0/Domain.pdb
+/home/vbearzotti/.openclaw/workspace/proyectos/backend-base/src/Domain/obj/Debug/net8.0/ref/Domain.dll
